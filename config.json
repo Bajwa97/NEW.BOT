@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "MOTU-BHAI",
-    "PREFIX": "#",
+    "BOTNAME": "MOTU",
+    "PREFIX": "$",
     "ADMINBOT": [
-        "100026482163338"
+        "100001907416499"
     ],
     "NDH": [
-        "100026482163338"
+        "100001907416499"
     ],
     "DATABASE": {
         "sqlite": {
